@@ -1,2 +1,2 @@
 [solr]
-server2
+server2 ansible_user=rhel
